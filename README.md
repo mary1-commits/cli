@@ -101,3 +101,6 @@ Images sourced from and Pexels.
 =======
 
 >>>>>>> b6008a7bfada0f000d1bbaedf6ed88120e19dac7
+
+
+[def]: images/lighthouse-validation.png
