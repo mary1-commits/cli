@@ -80,8 +80,9 @@ Testing
 Validation
 HTML Validation: Passed W3C validation.
 CSS Validation: Passed W3C validation.
+
 Lighthouse Report
-![Lighthouse on desktop](images/lighthouse validation.png)
+![Lighthouse on desktop](images/lighthouse-validation.png)
 
 Bugs
 Fixed: Navigation menu overlapping on smaller screens.
