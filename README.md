@@ -86,7 +86,8 @@ Lighthouse Report
 
 Bugs
 Fixed: Navigation menu overlapping on smaller screens.
-Known Issue: Quiz layout shifts slightly on very small screens (<320px).
+Known Issue: layout shifts slightly on very small screens (<320px).
+Fixed: Images were not showing for my positive affirmation cards because i had the wrong relative path. I fixed this by right clicking on the image in VScode and copying the relative path.
 Credits
 Content References
 ADHD educational content sourced from trusted organizations like CHADD and ADDitude.
@@ -94,7 +95,7 @@ ChatGPT
 Assistance in generating the README and refining project features.
 
 Media References
-Images sourced from and Pexels.
+Images sourced from Pexels. The wireframe image was generated using chatgpt. 
 
 
 <<<<<<< HEAD
