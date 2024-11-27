@@ -43,7 +43,6 @@ Wireframes were created to guide the layout and design. Below are snapshots of t
 Surface Design
 Typography
 The website uses:
-
 Headings: Lora (serif) for an elegant and professional look.
 Body Text: Open Sans for readability.
 Color Scheme and Imagery
@@ -54,11 +53,12 @@ Website Features
 Tablet/Mobile View
 The website uses a responsive grid layout with media queries to ensure usability on all devices.
 
-Future Features
+Things that I would include in the future to imrpove my website is:
 User-submitted testimonials.
 Forum for discussions and peer support.
 Newsletter subscription for ADHD-related updates.
-Technologies Used
+
+Technologies that were used included:
 Languages
 HTML
 CSS
@@ -66,9 +66,9 @@ JavaScript
 Frameworks/Libraries
 Bootstrap for responsiveness.
 FontAwesome for icons.
-Programs
-Figma for wireframes.
+Programs Figma for wireframes. 
 Visual Studio Code for coding.
+
 Deployment
 To deploy the site on GitHub Pages:
 
@@ -81,10 +81,8 @@ Validation
 HTML Validation: Passed W3C validation.
 CSS Validation: Passed W3C validation.
 Lighthouse Report
-Performance: 95%
-Accessibility: 98%
-SEO: 100%
-Best Practices: 94%
+![Lighthouse on desktop](images/lighthouse validation.png)
+
 Bugs
 Fixed: Navigation menu overlapping on smaller screens.
 Known Issue: Quiz layout shifts slightly on very small screens (<320px).
